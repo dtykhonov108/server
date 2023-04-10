@@ -2,8 +2,8 @@ import axios from 'axios'
 import crypto from 'crypto'
 import qs from 'qs'
 
-const publickApiKey = 'H303cdkQ7f6Na9EeXHQez6aVaBQ0Q5fUDGYSXRK1LpXmCUdV2TvZGPcWP87EZTMX'
-const secretApi = 'IwXXgZqabGjrklz49GRnBDCWn7NMQQh8hLyZLpX4dPYs7gPGt1xyHZ7Oo1cDyRzf'
+const publickApiKey =
+const secretApi = 
 const apiPath = 'https://api.binance.com/api/v3/account'
 
 const isBaninanceBuy = async () => {
